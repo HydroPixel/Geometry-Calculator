@@ -1,0 +1,22 @@
+# Geometry SuperCalc 3000™
+
+🚀 A full-scale geometry calculator app with a modern GUI, built in Python (Tkinter) and packaged into a Windows `.exe` with PyInstaller.  
+It supports calculations for 2D and 3D shapes including area, perimeter, surface area, and volume. Its my first biggest ever project! Hope you all will like it!
+
+## ✨ Features
+- 📐 Area & Perimeter for 2D Shapes (Square, Rectangle, Triangle, Parallelogram, etc.)
+- 🔲 Surface Area & Volume for 3D Shapes
+- 🎨 Polished GUI with custom styles & fullscreen mode
+- 🖼️ Custom App Icon
+- ⚡ Packaged as `.exe` for easy use on Windows
+
+## 🛠️ Tech Stack
+- **Python 3**
+- **Tkinter** (GUI framework)
+- **PyInstaller** (for `.exe` build)
+
+## 👨‍💻 Author
+**Aliasgar a.k.a Hydropixel23**  
+
+---
+⭐ If you like this project, don’t forget to **star the repo**!
